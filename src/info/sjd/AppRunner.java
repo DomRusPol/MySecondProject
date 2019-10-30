@@ -1,4 +1,4 @@
-package info;
+package info.sjd;
 
 import info.sjd.heirs.circle.Circle;
 import info.sjd.heirs.square.Square;

@@ -1,8 +1,8 @@
 package info.sjd.heirs.circle;
 
-import info.sjd.abstraction.Shape;
+import info.sjd.abstraction.AbstractShape;
 
-public class Circle implements Shape {
+public class Circle extends AbstractShape {
 
 	private double radius;
 

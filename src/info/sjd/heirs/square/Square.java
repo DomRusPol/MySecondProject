@@ -1,8 +1,8 @@
 package info.sjd.heirs.square;
 
-import info.sjd.abstraction.Shape;
+import info.sjd.abstraction.AbstractShape;
 
-public class Square implements Shape {
+public class Square extends AbstractShape {
 
 	private double side;
 

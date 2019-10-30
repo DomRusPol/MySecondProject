@@ -1,8 +1,8 @@
 package info.sjd.heirs.triangle;
 
-import info.sjd.abstraction.Shape;
+import info.sjd.abstraction.AbstractShape;
 
-public class Triangle implements Shape {
+public class Triangle extends AbstractShape {
 
 	private double base;
 	private double height;
