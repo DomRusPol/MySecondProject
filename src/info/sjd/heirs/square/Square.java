@@ -4,7 +4,7 @@ import info.sjd.abstraction.AbstractShape;
 
 public class Square extends AbstractShape {
 
-	public double side;
+	private double side;
 
 	public double getSide() {
 		return side;

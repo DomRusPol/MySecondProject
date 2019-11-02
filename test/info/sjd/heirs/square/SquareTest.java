@@ -13,7 +13,7 @@ class SquareTest {
 
 		double result = square.getArea();
 
-		assertEquals(441.0, result, 0.1);
+		assertEquals(441.0, square.getArea(), 0.1);
 	}
 
 }
